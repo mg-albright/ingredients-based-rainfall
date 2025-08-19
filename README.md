@@ -1,2 +1,2 @@
 # ingredients-based-rainfall
-Scripts from Lapenta Internship
+Scripts from Lapenta NOAA Internship -- summer 2025
