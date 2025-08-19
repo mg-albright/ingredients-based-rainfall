@@ -13,8 +13,8 @@ Workflow (all files in scripts/):
 	- save_vars=False assumes you already have composites calculated and will try to read in the saved composites
 	- outputted figures here: /export/hpc-lw-director/malbright/working/composites/ 
 4. make_boxplots.py OR max_make_boxplots.py
-        - No need to change anything inside the script, unless you want to change the plotting aesthetics \
-                - Run as: python make_boxplots.py --variable variable \
-                        - possible variables: pwat, cape, wspd300 (wind speed at 300 mb), wspd925, \
+   	- No need to change anything inside the script, unless you want to change the plotting aesthetics 
+   		- Run as: python make_boxplots.py --variable variable 
+   		- possible variables: pwat, cape, wspd300 (wind speed at 300 mb), wspd925,
                                               wspd850, mt925 (moisture transport at 925 mb), or mt850
-        - outputted figures here: /export/hpc-lw-director/malbright/working/boxplots
+	- outputted figures here: /export/hpc-lw-director/malbright/working/boxplots
